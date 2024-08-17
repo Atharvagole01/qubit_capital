@@ -1,4 +1,0 @@
-git clone https://github.com/Atharvagole01/qubit_capital.git
-virtualenv qvenv
-.\qvenv\Scripts\activate
-pip freeze > requirements.txt 
